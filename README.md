@@ -20,14 +20,6 @@ Input clinical and demographic data to assess the likelihood of heart disease.
 Intuitive UI:
 Sidebar menu for easy navigation between prediction types.
 
-Project Structure
-app.py
-This is the main entry point of the application. It contains the Streamlit code for the user interface, loads the pre-trained machine learning models, and handles all user inputs and predictions for:
-Diabetes disease prediction
-Parkinson's disease prediction
-Heart disease prediction
-The application is designed for ease of use and extensibility. You can modify app.py to add new prediction features, update model paths, or customize the interface.
-
 Getting Started
 Prerequisites
 Python 3.7 or higher
